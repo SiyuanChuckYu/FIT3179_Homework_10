@@ -69,7 +69,7 @@
   "data": [
     {
       "name": "input",
-      "url": "../data/unemployment_states_yearly.csv",
+      "url": "data/unemployment_states_yearly.csv",
       "format": {"type": "csv", "parse": {"Year": "number", "Rate": "number"}}
     },
     {
